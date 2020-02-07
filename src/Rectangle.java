@@ -23,7 +23,8 @@ public class Rectangle {
                         this.getLength() + " and a width of " +
                         this.getWidth() + " and an area of " +
                         this.getArea() + " and a diagonal of " +
-                        this.getDiagonal();
+                        this.getDiagonal() + " Is it a square? " +
+                        this.isSquare();
     }
 
 }
